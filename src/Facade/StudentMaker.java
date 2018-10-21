@@ -13,6 +13,7 @@ public class StudentMaker {
     private Student itStudent;
     private Student engStudent;
     private Student artStudent;
+    private Student eduStudent;
     private static StudentMaker aStudentMaker;
     private StudentMaker(){
         itStudent = new ItStudent();
